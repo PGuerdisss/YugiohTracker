@@ -1,0 +1,49 @@
+﻿<Window x:Class="YugiohTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Yugioh Tracker" 
+        SizeToContent="WidthAndHeight" 
+        Background="Transparent" 
+        WindowStyle="None" 
+        AllowsTransparency="True" 
+        ResizeMode="NoResize" 
+        UseLayoutRounding="True" 
+        Focusable="True"
+        MouseLeftButtonDown="Janela_MouseLeftButtonDown">
+
+    <Border Background="Transparent" BorderBrush="Black" BorderThickness="1">
+        <DockPanel x:Name="MainBackground" Background="#00FF00">
+
+            <Border DockPanel.Dock="Top" Background="#333" Padding="5">
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                    <TextBlock x:Name="TxtLayout" Text="LAYOUT ▼" Foreground="Yellow" Margin="0,2" Cursor="Hand" MouseLeftButtonUp="BtnLayout_Click" HorizontalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                    <TextBlock x:Name="TxtCards" Text="CARTAS ▼" Foreground="Cyan" Margin="0,2" Cursor="Hand" MouseLeftButtonUp="BtnCards_Click" HorizontalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+
+                    <TextBlock x:Name="TxtExtra" Text="EXTRAS ▼" Foreground="MediumPurple" Margin="0,5,0,2" Cursor="Hand" MouseLeftButtonUp="BtnExtra_Click" HorizontalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+
+                    <StackPanel x:Name="PanelExtra" Visibility="Collapsed" Margin="10,0,0,0">
+                        <TextBlock x:Name="TxtHundo" Text="• HUNDO" Foreground="White" Cursor="Hand" MouseLeftButtonDown="BtnHundo_Click" Margin="10,5,0,5"/>
+                        <TextBlock x:Name="TxtRank" Text="• RANK CALC" Foreground="LimeGreen" Margin="0,2" Cursor="Hand" MouseLeftButtonUp="BtnRank_Click" HorizontalAlignment="Left" FontWeight="Bold" FontSize="13"/>
+                        <TextBlock x:Name="TxtPassword" Text="• PASSWORD" Foreground="DeepSkyBlue" Margin="0,2" Cursor="Hand" MouseLeftButtonUp="BtnPassword_Click" HorizontalAlignment="Left" FontWeight="Bold" FontSize="13"/>
+                    </StackPanel>
+
+                    <TextBlock x:Name="TxtAtalhos" Text="TECLAS" Foreground="White" Margin="0,5,0,2" Cursor="Hand" MouseLeftButtonUp="BtnAtalhos_Click" HorizontalAlignment="Center" FontSize="14"/>
+                    <TextBlock x:Name="TxtDuvidas" Text="DUVIDAS" Foreground="Orange" Margin="0,2" Cursor="Hand" MouseLeftButtonUp="BtnDuvidas_Click" HorizontalAlignment="Center" FontSize="14" FontWeight="Bold"/>
+
+                    <Separator Background="Gray" Margin="0,5" Opacity="0.5"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <TextBlock x:Name="TxtSair" Text="SAIR" Foreground="Red" Margin="5,0" Cursor="Hand" MouseLeftButtonUp="BtnSair_Click" VerticalAlignment="Center" FontWeight="Bold"/>
+                        <TextBlock Text="|" Foreground="Gray" Margin="2,0" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="TxtLang" Text="EN" Foreground="Violet" Margin="5,0" Cursor="Hand" MouseLeftButtonUp="BtnLang_Click" VerticalAlignment="Center" FontWeight="Bold"/>
+                    </StackPanel>
+
+                </StackPanel>
+            </Border>
+
+            <StackPanel x:Name="LinhasContainer" Background="Transparent" SnapsToDevicePixels="True" Margin="0,5,0,0"/>
+
+        </DockPanel>
+    </Border>
+</Window>

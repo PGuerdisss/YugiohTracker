@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|c:\\users\\pedro lesbico\\source\\repos\\yugiohtracker\\yugiohtracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|solutionrelative:yugiohtracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|c:\\users\\pedro lesbico\\source\\repos\\yugiohtracker\\yugiohtracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|solutionrelative:yugiohtracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|c:\\users\\pedro lesbico\\source\\repos\\yugiohtracker\\yugiohtracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|solutionrelative:yugiohtracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|c:\\users\\pedro lesbico\\source\\repos\\yugiohtracker\\yugiohtracker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F90B2-7723-E4FC-3A61-718D598A12B9}|YugiohTracker\\YugiohTracker.csproj|solutionrelative:yugiohtracker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "YugiohTracker\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\MainWindow.xaml",
+              "RelativeToolTip": "YugiohTracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-22T16:22:09.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "YugiohTracker\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\AssemblyInfo.cs",
+              "RelativeToolTip": "YugiohTracker\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T16:22:01.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\App.xaml.cs",
+              "RelativeDocumentMoniker": "YugiohTracker\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\App.xaml.cs",
+              "RelativeToolTip": "YugiohTracker\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T16:21:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YugiohTracker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pedro Lesbico\\source\\repos\\YugiohTracker\\YugiohTracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "YugiohTracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAowA0BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T16:21:44.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
